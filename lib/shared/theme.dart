@@ -14,7 +14,7 @@ Color kInactiveColor = Color(0xffDBD7EC);
 TextStyle blackTextStyle = GoogleFonts.poppins(
   color: kBlackColor
 );
-TextStyle whiteextStyle = GoogleFonts.poppins(
+TextStyle whiteTextStyle = GoogleFonts.poppins(
   color: kWhiteColor
 );
 TextStyle greyTextStyle = GoogleFonts.poppins(
