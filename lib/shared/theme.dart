@@ -1,5 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 double defaultMargin = 24.0;
@@ -13,6 +14,7 @@ Color kGreenColor = Color(0xff0EC3AE);
 Color kRedColor = Color(0xffEB70A5);
 Color kBackgroundColor = Color(0xffFAFAFA);
 Color kInactiveColor = Color(0xffDBD7EC);
+Color kTransparentColor = Colors.transparent;
 
 TextStyle blackTextStyle = GoogleFonts.poppins(
   color: kBlackColor
